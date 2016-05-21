@@ -1,6 +1,6 @@
 <?php
 
-
+namespace Controller;
 
 /**
  * Created by PhpStorm.
@@ -8,6 +8,7 @@
  * Date: 21.05.16
  * Time: 12:31
  */
+
 class Rectangle extends Square
 {
  public function area($side_a, $side_b)

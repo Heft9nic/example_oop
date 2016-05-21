@@ -6,6 +6,9 @@
  * Date: 21.05.16
  * Time: 12:53
  */
+namespace Controller;
+
+
 class Lozenge extends Square
 {
  public function area($side_a, $side_b)
