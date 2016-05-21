@@ -1,0 +1,17 @@
+{
+    "name": "stas/oop",
+    "authors": [
+        {
+            "name": "Heft9nic",
+            "email": "Heft9nic@gmail.com"
+        }
+    ],
+    "require": {},
+
+  "autoload": {
+    "psr-4": {
+      "Controller\\": "src/Controller"
+    }
+  }
+
+}
